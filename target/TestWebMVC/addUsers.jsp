@@ -13,10 +13,10 @@
 <body>
 <form action="usersServlet" method="post">
     <pre>
-        id:<input type="text" name="id"/>
-        name:<input type="text" name="name"/>
-        age:<input type="text" name="age"/>
-        <input type="submit" name="sub" value="添加"/>
+<%--        id:<input type="text" name="id"/>--%>
+<%--        name:<input type="text" name="name"/>--%>
+<%--        age:<input type="text" name="age"/>--%>
+        <input type="submit" name="sub" value="查询"/>
     </pre>
 
 </form>
